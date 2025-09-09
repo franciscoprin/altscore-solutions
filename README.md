@@ -50,6 +50,7 @@
 | Season | Episode | Challenge | Solution | Status |
 |--------|---------|-----------|----------|--------|
 | 1 | 1 | [¡La Sonda Silenciosa! 🛰️](https://makers-challenge.altscore.ai/s1e1) | [See solution](s1_e1_la_sonda_silenciosa/README.md) | ✅ |
+| 1 | 2 | [¡El Enigma Cósmico de Kepler-452b! 🌌](https://makers-challenge.altscore.ai/s1e2) | [See solution](s1_e2_enigma_cosmico/README.md) | ✅ |
 
 ## Security Note
 - Never commit your `.env` file to version control

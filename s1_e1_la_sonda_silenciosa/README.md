@@ -32,7 +32,7 @@ python summit_solution.py
 These are the sample output after running the script:
 
 ```bash
-(venv) fprin@francisco-prin:~/personal/altscore/altscore-solutions/s1_e1_la_sonda_silenciosa_solution$ python summit_solution.py
+(venv) fprin@francisco-prin:~/personal/altscore/altscore-solutions/s1_e1_la_sonda_silenciosa$ python summit_solution.py
 
 Trying...
 distance:  failed to measure, try again
