@@ -45,6 +45,12 @@
 5. **Run the Solutions**
    You can now run the individual solution files, and they will automatically use the API key from your .env file.
 
+## Solutions Table
+
+| Season | Episode | Challenge | Solution | Status |
+|--------|---------|-----------|----------|--------|
+| 1 | 1 | [¡La Sonda Silenciosa! 🛰️](https://makers-challenge.altscore.ai/s1e1) | [See solution](s1_e1_la_sonda_silenciosa/README.md) | ✅ |
+
 ## Security Note
 - Never commit your `.env` file to version control
 - The `.gitignore` file is already set up to exclude `.env`
