@@ -65,7 +65,6 @@ These are the sample output after running the script:
 
 ```bash
 (.venv) fprin@francisco-prin:~/personal/altscore/altscore-solutions/s1_e1_la_sonda_silenciosa$ python summit_solution.py
-key:  905cf7df9ad849138f4c26432ebb08b3
 [{"id":"f7aed612-be81-434b-9d67-a88f459faedc","resonance":735,"position":{"x":0.009669699608339966,"y":0.07524386007376704,"z":0.883106393300143}},{"id":"478dbd97-50b5-48a6-b08b-9fe34e3f2492","resonance":728,"position":{"x":0.7412309083479308,"y":0.5516804211263913,"z":0.42768691898067934}},{"id":"62e53ca9-c806-4fa2-91a8-330920828c88","resonance":721,"position":{"x":0.7711192230196271,"y":0.6371133773013796,"z":0.2619552624343482}}]
 [{"id":"3696ae6c-bd48-4db9-bd87-64daa95ec37f","resonance":714,"position":{"x":0.42357577256372636,"y":0.27668022397225167,"z":0.0035456890877823}},{"id":"3276c056-fd20-4b1b-9d12-94740eda1e67","resonance":707,"position":{"x":0.9053364910793232,"y":0.8461037132948555,"z":0.09229846771273342}},{"id":"f1dfb7c7-3cb5-4bb1-80e2-6e625c93b0d2","resonance":700,"position":{"x":0.6342379588850797,"y":0.2639839016304094,"z":0.48853185214937656}}]
 [{"id":"784adfb4-c55c-4f65-a8dc-48627a2ca5ec","resonance":693,"position":{"x":0.6048298270302239,"y":0.7176121871387979,"z":0.20359731232745293}},{"id":"3c5dade5-8f87-4fb7-89d7-e686033ee5b1","resonance":686,"position":{"x":0.10703597770941764,"y":0.5532236408848159,"z":0.2723482123148163}},{"id":"30cd0a61-7efb-4f5b-bd5c-8d2d9d428332","resonance":679,"position":{"x":0.9389300039271039,"y":0.13429111439336772,"z":0.11542867041910221}}]
