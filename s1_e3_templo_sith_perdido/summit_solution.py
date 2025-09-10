@@ -1,11 +1,14 @@
 import re
 import requests
 import base64
-from register import register, RegisterRequest
+from dotenv import load_dotenv
 from collections import defaultdict
 
-BASE_URL="https://makers-challenge.altscore.ai"
-REGISTER_PATH="v1/register"
+# Load environment variables
+load_dotenv()
+
+# Configuration
+BASE_URL=os.getenv('ALTSCORE_BASE_URL')
 
 S1_E3_API_PATH="v1/s1/e3/resources/oracle-rolodex"
 S1_E3_SOLUTION_PATH="v1/s1/e3/solution"
