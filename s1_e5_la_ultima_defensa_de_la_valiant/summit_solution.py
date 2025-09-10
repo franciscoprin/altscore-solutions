@@ -45,8 +45,6 @@ def main(key: str):
 
     print(r.json())
 
-
-# DONE!!!
 if __name__ == "__main__":
     key = os.getenv('ALTSCORE_API_KEY')
     if not key:
