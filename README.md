@@ -9,6 +9,7 @@
 | 1 | 5 | [La Última Defensa de la "Valiant" 🚀](https://makers-challenge.altscore.ai/s1e5) | [See solution](s1_e5_la_ultima_defensa_de_la_valiant/README.md) | ✅ |
 | 1 | 6 | [La Infiltración en Ciudad Prisma 🏙️](https://makers-challenge.altscore.ai/s1e6) | [See solution](s1_e6_la_Infiltración_en_ciudad_prisma/README.md) | ✅ |
 | 1 | 7 | [Nave a la Deriva 🚀](https://makers-challenge.altscore.ai/s1e7) | [See solution](s1_e7_nave_a_la_deriva/README.md) | ✅ |
+| 1 | 8 | [El Hechizo de la Puerta Mágica 🚪](https://makers-challenge.altscore.ai/s1e8) | [See solution](s1_e8_el_hechizo_de_la_puerta_magica/README.md) | ✅ |
 
 ## Setup Instructions
 
