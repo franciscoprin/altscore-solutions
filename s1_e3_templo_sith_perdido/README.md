@@ -54,7 +54,7 @@ A planet with perfect balance (IBF = 0) is the location of the lost Sith temple.
 When you run the script, it will output the planet that's in perfect balance between the Light and Dark sides of the Force:
 
 ```bash
-$ python summit_solution.py
+(.venv) fprin@francisco-prin:~/personal/altscore/altscore-solutions/s1_e3_templo_sith_perdido$ python summit_solution.py
 {"name":"Ryloth","rotation_period":"30","orbital_period":"305",...}
 balance_planet: Ryloth
 {'planet': 'Ryloth'}

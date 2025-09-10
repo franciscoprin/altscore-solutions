@@ -1,5 +1,12 @@
 # Altscore Solutions
 
+| Season | Episode | Challenge | Solution | Status |
+|--------|---------|-----------|----------|--------|
+| 1 | 1 | [¡La Sonda Silenciosa! 🛰️](https://makers-challenge.altscore.ai/s1e1) | [See solution](s1_e1_la_sonda_silenciosa/README.md) | ✅ |
+| 1 | 2 | [¡El Enigma Cósmico de Kepler-452b! 🌌](https://makers-challenge.altscore.ai/s1e2) | [See solution](s1_e2_enigma_cosmico/README.md) | ✅ |
+| 1 | 3 | [La Búsqueda del Templo Sith Perdido 🏰](https://makers-challenge.altscore.ai/s1e3) | [See solution](s1_e3_templo_sith_perdido/README.md) | ✅ |
+| 1 | 4 | [La Forja Elírica Olvidada 🧝‍♂️](https://makers-challenge.altscore.ai/s1e4) | [See solution](s1_e4_forja_elfica_olvidada/README.md) | ✅ |
+
 ## Setup Instructions
 
 1. **Set Up a Virtual Environment (Recommended)**
@@ -44,14 +51,6 @@
 
 5. **Run the Solutions**
    You can now run the individual solution files, and they will automatically use the API key from your .env file.
-
-## Solutions Table
-
-| Season | Episode | Challenge | Solution | Status |
-|--------|---------|-----------|----------|--------|
-| 1 | 1 | [¡La Sonda Silenciosa! 🛰️](https://makers-challenge.altscore.ai/s1e1) | [See solution](s1_e1_la_sonda_silenciosa/README.md) | ✅ |
-| 1 | 2 | [¡El Enigma Cósmico de Kepler-452b! 🌌](https://makers-challenge.altscore.ai/s1e2) | [See solution](s1_e2_enigma_cosmico/README.md) | ✅ |
-| 1 | 3 | [La Búsqueda del Templo Sith Perdido 🏰](https://makers-challenge.altscore.ai/s1e3) | [See solution](s1_e3_templo_sith_perdido/README.md) | ✅ |
 
 ## Security Note
 - Never commit your `.env` file to version control
