@@ -7,6 +7,7 @@
 | 1 | 3 | [La Búsqueda del Templo Sith Perdido 🏰](https://makers-challenge.altscore.ai/s1e3) | [See solution](s1_e3_templo_sith_perdido/README.md) | ✅ |
 | 1 | 4 | [La Forja Elírica Olvidada 🧝‍♂️](https://makers-challenge.altscore.ai/s1e4) | [See solution](s1_e4_forja_elfica_olvidada/README.md) | ✅ |
 | 1 | 5 | [La Última Defensa de la "Valiant" 🚀](https://makers-challenge.altscore.ai/s1e5) | [See solution](s1_e5_la_ultima_defensa_de_la_valiant/README.md) | ✅ |
+| 1 | 6 | [La Infiltración en Ciudad Prisma 🏙️](https://makers-challenge.altscore.ai/s1e6) | [See solution](s1_e6_la_Infiltración_en_ciudad_prisma/README.md) | ✅ |
 
 ## Setup Instructions
 
