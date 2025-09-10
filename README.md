@@ -8,6 +8,7 @@
 | 1 | 4 | [La Forja Elírica Olvidada 🧝‍♂️](https://makers-challenge.altscore.ai/s1e4) | [See solution](s1_e4_forja_elfica_olvidada/README.md) | ✅ |
 | 1 | 5 | [La Última Defensa de la "Valiant" 🚀](https://makers-challenge.altscore.ai/s1e5) | [See solution](s1_e5_la_ultima_defensa_de_la_valiant/README.md) | ✅ |
 | 1 | 6 | [La Infiltración en Ciudad Prisma 🏙️](https://makers-challenge.altscore.ai/s1e6) | [See solution](s1_e6_la_Infiltración_en_ciudad_prisma/README.md) | ✅ |
+| 1 | 7 | [Nave a la Deriva 🚀](https://makers-challenge.altscore.ai/s1e7) | [See solution](s1_e7_nave_a_la_deriva/README.md) | ✅ |
 
 ## Setup Instructions
 
